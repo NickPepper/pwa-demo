@@ -1,0 +1,19 @@
+{
+  "name": "pwa-demo",
+  "version": "1.0.0",
+  "description": "Progressive Web App Demo",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickPepper/pwa-demo.git"
+  },
+  "author": "Nick Pershin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickPepper/pwa-demo/issues"
+  },
+  "homepage": "https://github.com/NickPepper/pwa-demo#readme"
+}
