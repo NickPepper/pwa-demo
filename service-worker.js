@@ -25,6 +25,7 @@ let filesToCache = [
  * Cache on Install Pattern.
  * 
  * We cache as early as possible all the items(assets) needed for an app shell to be displayed.
+ * Ideal for: CSS, images, fonts, JS, templates… basically anything you'd consider static.
  */
 self.addEventListener('install', function(e) {
     DEBUG && console.log(`[ServiceWorker] Install`);
